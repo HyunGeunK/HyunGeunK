@@ -1,64 +1,97 @@
-# 김현근의 깃허브에 오신걸 환영합니다
-
-<br>
-
-## 👨‍💻 About Me
-
-* 🚀 **백엔드 개발자**
-* 📫 저에게 연락하시려면 **hyungeun0313@naver.com** 로 메일 주세요.
-
-<br>
-
-## 🛠️ 기술 스택 (Tech Stack)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=250&section=header&text=Hello,%20I'm%20HyunGeun%20Kim!&fontSize=50&fontAlignY=38&fontColor=ffffff" alt="Header" />
+</div>
 
 <div align="center">
-    <p><strong>Backend</strong></p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-
-<div align="center">
-    <p><strong>DevOps / ETC</strong></p>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=Backend+Developer;Architecting+MSA+%26+AI+Solutions;Constantly+Learning+and+Growing" alt="Typing SVG" />
 </div>
 
 <br>
 
-## 📊 깃허브 통계 (GitHub Stats)
+> **"안정적인 아키텍처와 지능적인 서비스의 조화를 고민합니다."** > 트래픽 증가에도 유연하게 대응할 수 있는 구조를 고민하며, 단순한 기능 구현을 넘어 비즈니스 가치를 높이는 백엔드 시스템을 지향합니다. 
+> MSA 환경과 AI 기술 연동에 깊은 관심을 가지고 매일 성장하고 있습니다.
 
-[깃허브 ID 'HyunGeunK'로 자동 생성되도록 설정했습니다.]
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyunGeunK&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunGeunK&layout=compact&theme=radical" alt="Top Languages"/>
+## 🧩 About Me
+
+* **🌱 Goal:** 확장이 용이하고 신뢰할 수 있는 대용량 트래픽 처리 백엔드 시스템 구축
+* **🔍 Focus:** Java & Spring Boot 기반 서버 개발, Microservices Architecture(MSA) 설계
+* **💡 Mindset:** 주도적인 소통과 책임감 (팀장으로서의 리더십 경험), 이유 있는 코드 작성
+* **🎓 Education:** 신한대학교 소프트웨어융합과 재학
+
+<br>
+
+## 🛠 Tech Stack
+
+### Backend
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
+
+### Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+### AI & Architecture
+<img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=microservices&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+### DevOps & Infrastructure
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+### Tools & Collaboration
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+<br>
+
+## 📈 GitHub Activity Graph
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyunGeunK&show_icons=true&theme=transparent&hide_border=true&title_color=4479A1&icon_color=4479A1&text_color=333333" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunGeunK&layout=compact&theme=transparent&hide_border=true&title_color=4479A1&text_color=333333" alt="Top Languages" width="48%" />
 </p>
 
 <br>
 
-## 🌱 현재 진행 중인 프로젝트
+## 🌱 Currently Learning
 
-[현재 진행 중인 프로젝트를 강조하는 섹션입니다. 설명을 자유롭게 수정하세요.]
-
-* **[졸업작품 프로젝트 명]** (진행중)
-    * **설명:** [대학교 졸업작품으로 진행 중인 프로젝트에 대한 1~2줄 설명]
-    * **기술:** [사용한 핵심 기술, 예: Spring Boot, MySQL, AWS]
-    * **레포지토리:** [관련 깃허브 레포지토리 링크]
-
-* **SK쉴더스 루키즈 (SK Shieldus Rookies) 부트캠프** (진행중)
-    * **설명:** [SK쉴더스 루키즈 과정에서 진행하는 팀 프로젝트 또는 학습 내용 요약]
-    * **기술:** [과정에서 배우거나 사용하는 핵심 기술]
-    * **레포지토리:** [관련 깃허브 레포지토리 링크 (없다면 생략)]
+* **MSA (Microservices Architecture):** 서비스 간 결합도를 낮추고 독립적인 확장이 가능한 아키텍처 설계 및 인프라 구축
+* **AI Integration:** OpenAI API 등을 활용한 지능형 백엔드 서비스 연동 로직 고도화
+* **Performance Optimization:** 쿼리 튜닝 및 캐싱 전략을 통한 응답 속도 개선
 
 <br>
 
-## 📫 연락처 (Contact Me)
+## 🚀 Projects
 
-[이메일 주소를 반영했습니다. 링크드인이나 블로그가 있다면 링크를 추가해 보세요.]
+### 1. 🐾 PetLog (Team '이음')
+**[MSA 기반 반려동물 라이프스타일 플랫폼 개발]** *기간: 2026.01 ~ 진행 중*
 
-<p align="center">
-  <a href="mailto:hyungeun0313@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
+* **Microservices Architecture:** 모놀리식 구조의 한계를 극복하기 위해 MSA를 도입, 도메인별(예: 회원, 일지, 알림 등) 독립적인 서비스 배포 및 확장성 확보
+* **Backend Development:** Spring Boot를 활용하여 각 마이크로서비스의 RESTful API 설계 및 핵심 비즈니스 로직 구현
+* **Service Communication:** [여기에 Feign Client, Kafka, RabbitMQ 등 서비스 간 통신에 사용한 기술 1~2줄 추가]
+* **AI Integration:** [OpenAI 연동 등 AI 기능을 도입했다면 해당 내용을 구체적으로 작성]
+
+### 2. 🎧 ConnectBeat (University Graduation Project)
+**[소프트웨어융합과 졸업작품 프로젝트]** *기간: 2025.12 ~ 진행 중*
+
+* **Core Logic:** [프로젝트의 핵심 기능 1줄 요약, 예: 사용자 취향 기반 음악 데이터 추천 알고리즘 구현]
+* **Database Design:** [데이터베이스 스키마 설계 및 대용량 데이터 조회 성능 최적화 경험 작성]
+* **API Spec:** [Swagger 또는 Spring Rest Docs를 활용한 프론트엔드 팀과의 API 명세 및 협업 경험]
+
+### 3. 🚩 [마일스톤 프로젝트 명 기입]
+**[팀장으로서 프로젝트 전체 개발 라이프사이클 리드]** *기간: 2025.11 ~ 2025.11*
+
+* **Leadership & Planning:** 팀장으로서 프로젝트 초기 기획, 기술 스택 선정, WBS 기반의 일정 산출 및 태스크 분배 주도
+* **Backend Architecture:** 전체 시스템의 백엔드 구조 설계 및 핵심 API 기능 개발 담당
+* **Problem Solving:** [개발 중 겪었던 가장 큰 트러블 슈팅 경험, 예: N+1 문제 해결, 동시성 이슈 제어 등]
+
+### 4. 🛡️ SK Shieldus Rookies Bootcamp
+**[실무 중심의 클라우드 및 개발 역량 강화 과정]** *기간: 2025.12 ~ 진행 중*
+
+* **Cloud Infrastructure:** [AWS EC2, S3, RDS 등을 활용한 인프라 구축 및 배포 자동화 경험]
+* **Security & Optimization:** [보안 부트캠프 특성에 맞는 시큐어 코딩 적용이나 시스템 안정성 강화 경험 작성]
+
+<br>
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:hyungeun0313@naver.com"><img src="https://img.shields.io/badge/Email-hyungeun0313@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
