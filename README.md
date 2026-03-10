@@ -102,8 +102,8 @@
 * **Database Design:** [데이터베이스 스키마 설계 및 대용량 데이터 조회 성능 최적화 경험 작성]
 * **Real-time Communication:** WebSocket을 활용한 실시간 데이터 전송 및 양방향 통신 기능 구현
 
-### 3. 🚩 [마일스톤 프로젝트 명 기입]
-**[팀장으로서 프로젝트 전체 개발 라이프사이클 리드]** *기간: 2025.11 ~ 2025.11*
+### 3. 🚩 [마이크로스톤 NoStack팀 라오스 교류 프로젝트] 기간: 2024.07 ~ 2025.02*
+link : https://github.com/SubNoStack/NoStack_Laos_Back.git
 
 * **Leadership & Planning:** 팀장으로서 프로젝트 초기 기획, 기술 스택 선정, Jira를 활용한 스프린트 관리 및 태스크 분배 주도
 * **Backend Architecture:** 전체 시스템의 백엔드 구조 설계 및 Spring MVC 기반 핵심 API 기능 개발 담당
